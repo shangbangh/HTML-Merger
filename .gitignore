@@ -1,5 +1,5 @@
 # Manual ignores
-src/sandbox.py
+sandbox.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
